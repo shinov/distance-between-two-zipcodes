@@ -1,0 +1,36 @@
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+}
+.wrapper {
+    padding: 40px;
+}
+.zip-input,
+.button-wraper {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.zip-input label { 
+    width: 100px;
+    margin-right:10px ;
+    display: inline-block;
+}
+.loading-status {
+    text-align: center;
+    padding: 5px;
+    background-color: #ccc;
+    margin-bottom: 10px
+}
+.result {
+    width: 100%;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.result  .dis {
+    padding: 10px;
+    font-size: 16px;
+}

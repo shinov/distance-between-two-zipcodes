@@ -1,0 +1,20 @@
+{
+  "name": "distance-between-two-zip",
+  "version": "1.0.0",
+  "description": "distance between two zip",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx http-server"
+  },
+  "keywords": [
+    "distance",
+    "between",
+    "two",
+    "zip"
+  ],
+  "author": "shinov",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
